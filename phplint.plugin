@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python
+Module=phplint
+IAge=3
+Name=PHPLint after save for Gedit3
+Description=PHPLint after save. Plugin from Hide Plugin Pack.
+Authors=Jan Pecha <janpecha@email.cz>
+Copyright=Copyright © 2012 Jan Pecha <janpecha@email.cz>
+Website=http://janpecha.iunas.cz/
