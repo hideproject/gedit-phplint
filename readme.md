@@ -1,11 +1,11 @@
 PHPLint plugin for Gedit 3
-##########################
+==========================
 
 Run `php -l` command after save of PHP document.
 
 
 License
-=======
+-------
 
 Copyright (c) 2012 Jan Pecha (http://janpecha.iunas.cz/) All rights reserved.
 
